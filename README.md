@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SECT19N.
 - 👀 I’m interested in JS, C#, and C++.
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning WPF.
 <!-- - 📫 How to reach me ... -->
 
 <!---
