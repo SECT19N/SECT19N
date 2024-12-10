@@ -28,5 +28,4 @@ I am a Information System Engineer and a Software Developer. (Also a weeb at hea
 
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](https://myanimelist.net/animelist/Section4617)
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SECT19N&show_icons=true&theme=blueberry-duo	)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=blueberry-duo)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SECT19N&show_icons=true&theme=blueberry-duo)
