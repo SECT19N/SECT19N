@@ -28,4 +28,4 @@ I am a Information System Engineer and a Software Developer. (Also a weeb at hea
 
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](https://myanimelist.net/animelist/Section4617)
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SECT19N&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SECT19N&show_icons=true&theme=github_dark&border_color=30363d)
