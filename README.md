@@ -3,7 +3,6 @@ I am a Information System Engineer and a Software Developer. (Also a weeb at hea
 
 ## What I'm working on
 - 🚀 Developing a desktop client for Torn, the text based RPG.
-- 📖 Learning [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) for Desktop GUI Development.
 - 🤖 Creating a [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) bot.
 
 ## Visitors
