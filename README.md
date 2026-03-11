@@ -2,8 +2,8 @@
 I am a Information System Engineer and a Software Developer. (Also a weeb at heart.)
 
 ## What I'm working on
-- 🚀 Developing a desktop client for Torn, the text based RPG.
-- 🤖 Creating a [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) bot.
+- 🤖 Creating a Fluxer bot.
+- 🖥️ Creating Ferrite, a social platform.
 
 ## Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=SECT19N&style=flat&color=blue&abbreviated=true)
